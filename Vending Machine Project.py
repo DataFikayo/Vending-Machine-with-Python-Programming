@@ -132,10 +132,9 @@ vending_machine()
 print('You are all done! Please take your product(s)')
 
 
+#Another Project
 
-
-# Self Directed Learning
-#I learnt a smarter way to quickly visualise data. Follow the process below:
+#Smarter way to quickly visualise data. Follow the steps below:
 
 # 1. Install package - Search for "pivottablejs" and install
 # 2. Import dataset - Find the "FAO.csv" dataset attached to this submission or simply download if from the link below-
